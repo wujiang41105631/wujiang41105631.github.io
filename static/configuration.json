@@ -19,6 +19,7 @@
        {"name":"道教之音" , "url":"http://www.daoisms.org/"},
        {"name":"掘金" , "url":"https://e.xitu.io/"},
        {"name":"redis-yun-client" , "url":"http://try.redis.io/"},
+       {"name":"在线文档" , "url":"http://shouce.jb51.net/"},
        {"name":"知乎" , "url":"https://www.zhihu.com/topic/19550228/hot"}
     ]
 }
